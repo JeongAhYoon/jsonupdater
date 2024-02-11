@@ -1,0 +1,18 @@
+﻿TOAST: ERROR MESSAGES,MESSAGE,,Updated
+PRODUCT_ADD_FAILURE, Error adding the product,,0
+PRODUCT_ADD_UPDATE_FAILURE_ON_SUPPLIER_DATA,Product with same Supplier and Supplier Product Key already exists,,1
+PRODUCT_DELETE_FAILURE,Error deleting the product(s),,2
+PRODUCT_UPDATE_FAILURE,Error updating the product,,3
+PRODUCT_ADD_INFO,Please enter Product Description Product ID Supplier Name Supplier Product Key to add a new Product,,4
+PRODUCT_APPROVAL_FAILURE,An internal error occurred while approving products some data may not have been copied.,,5
+PRODUCT_REJECTION_FAILURE,An internal error occurred while rejecting products.,,6
+OUTBOUND_UPDATE_PROFILE_ADD_FAILURE,Error adding profile !,,7
+OUTBOUND_UPDATE_PROFILE_UPDATE_FAILURE,Error updating profile !,,8
+OUTBOUND_UPDATE_PROFILE_DELETE_FAILURE,Error deleting profiles !,,9
+TOAST_ERROR,Error Updating Products,,10
+INVALID_FORMAT_MSG,One or More file format is not supported\nPlease choose the following file types:\n + < some file extension>,,11
+OUTBOUND_UPDATE_PROFILE_NAME_VALIDITY,Profile name already exists. Please enter another name,,12
+LAYOUT_ADD_FAILURE,Error adding the layout,,13
+LAYOUT_UPDATE_FAILURE,Error updating the layout,,14
+DOCUMENT_NOT_AVAILABLE,Error occurred. Document is not available,,15
+SHOW_ONLINE.TOAST_ERROR,Error Updating Products,,16

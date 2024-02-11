@@ -1,0 +1,23 @@
+﻿Allowed Value Group,Allowed Value Description
+Color,Red
+,Blue
+,Green
+,Yellow
+,Orange
+,Purple
+,White
+,Black
+,Grey
+,Pink
+,Brown
+Appliance Finish,Stainless Steel
+,White
+,Black
+,Slate
+Installation Type,Built-In
+,Overlay
+,Freestanding
+,Integrated
+Refrigerator Door Hinge Type,Flush
+,Offset
+,Strap

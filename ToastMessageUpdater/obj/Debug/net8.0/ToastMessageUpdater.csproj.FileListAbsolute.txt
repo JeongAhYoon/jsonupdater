@@ -1,0 +1,14 @@
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\bin\Debug\net8.0\ToastMessageUpdater.exe
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\bin\Debug\net8.0\ToastMessageUpdater.deps.json
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\bin\Debug\net8.0\ToastMessageUpdater.runtimeconfig.json
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\bin\Debug\net8.0\ToastMessageUpdater.dll
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\bin\Debug\net8.0\ToastMessageUpdater.pdb
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.AssemblyInfoInputs.cache
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.AssemblyInfo.cs
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.csproj.CoreCompileInputs.cache
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.dll
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\refint\ToastMessageUpdater.dll
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.pdb
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.genruntimeconfig.cache
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ref\ToastMessageUpdater.dll

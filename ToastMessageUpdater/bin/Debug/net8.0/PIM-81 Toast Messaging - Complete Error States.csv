@@ -1,0 +1,17 @@
+TOAST: ERROR MESSAGES,MESSAGE,,Updated
+PIM.SHOW_ONLINE.TOAST_ERROR,Error Updating Products,,Error updating products
+PIM.PRODUCT_ADD_UPDATE_FAILURE_ON_SUPPLIER_DATA:,Product with same Supplier and Supplier Product Key already exists,,
+PIM.PRODUCT_DELETE_FAILURE:,Error deleting the product(s),,Error deleting products
+PIM.PRODUCT_UPDATE_FAILURE:,Error updating the product,,Error updating product
+PIM.PRODUCT_ADD_INFO:,Please enter Product Description Product ID Supplier Name Supplier Product Key to add a new Product,,"Please enter Product Description, Product ID, Supplier Name, and Supplier Product Key to add a new product"
+PIM.PRODUCT_APPROVAL_FAILURE:,An internal error occurred while approving products some data may not have been copied.,,An  internal error occurred while approving the products.  Some data may not have been copied 
+PIM.PRODUCT_REJECTION_FAILURE:,An internal error occurred while rejecting products.,,An internal error occurred while rejecting products
+PIM.OUTBOUND_UPDATE_PROFILE_ADD_FAILURE:,Error adding profile !,,Error adding profile
+PIM.OUTBOUND_UPDATE_PROFILE_UPDATE_FAILURE:,Error updating profile !,,Error updating profile
+PIM.OUTBOUND_UPDATE_PROFILE_DELETE_FAILURE:,Error deleting profiles !,,Error deleting profiles
+PIM.TOAST_ERROR:,Error Updating Products,,Error updating product
+PIM.INVALID_FORMAT_MSG,One or More file format is not supported\nPlease choose the following file types:\n + < some file extension>,,Invalid file types selected. Please choose from one of the following file types: {lists the accepted file types}
+PIM.OUTBOUND_UPDATE_PROFILE_NAME_VALIDITY,Profile name already exists. Please enter another name,,
+PIM.LAYOUT_ADD_FAILURE,Error adding the layout,,Error adding layout
+PIM.LAYOUT_UPDATE_FAILURE,Error updating the layout,,Error updating layout
+PIM.DOCUMENT_NOT_AVAILABLE,Error occurred. Document is not available,,

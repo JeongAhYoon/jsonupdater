@@ -12,3 +12,4 @@ C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\ne
 C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.pdb
 C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.genruntimeconfig.cache
 C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ref\ToastMessageUpdater.dll
+C:\Users\kyoon\inflearnFIle\ToastMessageUpdater\ToastMessageUpdater\obj\Debug\net8.0\ToastMessageUpdater.sourcelink.json
